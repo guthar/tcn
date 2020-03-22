@@ -4,12 +4,12 @@
   "description": "Informationen des Nettingsdorfer Tennisklubs",
   "icons": [
     {
-      "src": "/tcn/images/icons-192.png",
+      "src": "/images/icons-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/tcn/images/icons-512.png",
+      "src": "/images/icons-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -17,6 +17,6 @@
   "start_url": "/",
   "background_color": "#0000FF",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/tcn/",
   "theme_color": "#0000FF"
 }
