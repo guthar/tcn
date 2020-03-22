@@ -17,6 +17,6 @@
   "start_url": "https://guthar.github.io/tcn/index.html",
   "background_color": "#0000FF",
   "display": "standalone",
-  "scope": "/tcn",
+  "scope": "/",
   "theme_color": "#0000FF"
 }
